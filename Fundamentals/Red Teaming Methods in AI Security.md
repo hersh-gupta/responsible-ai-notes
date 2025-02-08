@@ -1,5 +1,3 @@
-# Red Teaming Methods in AI Security
-
 #ai/security #red-teaming #responsible-ai
 
 ## Overview
@@ -70,17 +68,3 @@ This document outlines various red teaming methods used in AI security testing a
 ### Direct Request
 - **Description**: Simply asking the model directly for harmful content
 - **Example**: Directly requesting instructions for harmful activities to establish baseline security
-
-## Responsible Use
-This information should be used exclusively for:
-1. Developing robust AI systems
-2. Improving AI safety measures
-3. Understanding and mitigating potential vulnerabilities
-4. Implementing effective defensive strategies
-
-## References
-[Note: Add relevant papers and research citations]
-
----
-Created: 2025-02-08
-Tags: #ai/security #red-teaming #responsible-ai #methods
