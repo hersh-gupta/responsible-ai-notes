@@ -2,33 +2,20 @@
 title: 
 authors: 
 year: 
-publication: 
-tags: [RAI, paper]
+link: 
+tags:
+  - RAI
+  - paper
 ---
-# Summary
-- Key contribution:
-- Main findings:
-- Methodology:
+## Summary
 
-# Detailed Notes
-## Problem Statement
-
-## Approach
+## Key Contributions
+## Method
 
 ## Results
 
-## Critical Analysis
+## Takeaways
 ### Strengths
-
 ### Limitations
 
-### Implications for Responsible AI
-
-# Personal Thoughts
-- 
-
-# Related Papers
-- 
-
-# Action Items
-- [ ]
+## Notable References
