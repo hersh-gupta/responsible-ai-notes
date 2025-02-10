@@ -1,6 +1,9 @@
 ---
 title: On Verbalized Confidence Scores for LLMs
-authors: Daniel Yang, Yao-Hung Hubert Tsai, Makoto Yamada
+authors:
+  - Daniel Yang
+  - Yao-Hung Hubert Tsai
+  - Makoto Yamada
 year: "2024"
 link: https://arxiv.org/abs/2412.14737
 tags:

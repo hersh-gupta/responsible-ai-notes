@@ -1,6 +1,7 @@
 ---
 title: "STAR: SocioTechnical Approach to Red Teaming Language Models"
-authors: Laura Weidinger,John Mellor,Bernat Guillén Pegueroles,Nahema Marchal,Ravin Kumar,Kristian Lum,Canfer Akbulut,Mark Diaz,Stevie Bergman,Mikel Rodriguez,Verena Rieser,William Isaac
+authors:
+  - Laura Weidinger, John Mellor,Bernat Guillén Pegueroles,Nahema Marchal,Ravin Kumar,Kristian Lum,Canfer Akbulut,Mark Diaz,Stevie Bergman,Mikel Rodriguez,Verena Rieser,William Isaac
 year: "2024"
 link: https://arxiv.org/abs/2406.11757
 tags:
