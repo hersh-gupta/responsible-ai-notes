@@ -12,7 +12,6 @@ tags:
   - uncertainty
   - confidence
 ---
-
 ## Summary
 This paper investigates having LLMs express their uncertainty through verbalized confidence scores as part of their outputs. The authors conduct extensive experiments across different datasets, models and prompting methods to assess the reliability of these confidence scores. Key findings show that larger LLMs can produce calibrated confidence scores when using appropriate prompting strategies.
 

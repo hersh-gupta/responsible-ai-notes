@@ -1,6 +1,7 @@
 ---
 title: "BBQ: A Hand-Built Bias Benchmark for Question Answering"
-authors: Alicia Parrish, Angelica Chen, Nikita Nangia, Vishakh Padmakumar, Jason Phang, Jana Thompson, Phu Mon Htut, Samuel R. Bowman
+authors:
+  - Alicia Parrish, Angelica Chen, Nikita Nangia, Vishakh Padmakumar, Jason Phang, Jana Thompson, Phu Mon Htut, Samuel R. Bowman
 year: "2022"
 link: https://github.com/nyu-mll/BBQ/tree/main
 tags:
@@ -8,7 +9,7 @@ tags:
   - responsible-ai
   - bias
   - QA
-  - benchmarks
+  - benchmark
 ---
 ## Summary
 This paper introduces BBQ (Bias Benchmark for QA), a dataset designed to measure how social biases manifest in question answering (QA) model outputs. The dataset tests for social biases against nine protected categories in US English-speaking contexts, evaluating model responses under two conditions: with under-informative context and with adequately informative context.

@@ -10,7 +10,6 @@ tags:
   - llm-safety
   - methodology
 ---
-
 ## Summary
 This paper introduces STAR (SocioTechnical Approach to Red teaming), a framework that improves red teaming of large language models through two key innovations:
 
