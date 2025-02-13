@@ -1,6 +1,18 @@
 ---
 title: "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal"
-authors: Mantas Mazeika,Long Phan,Xuwang Yin,Andy Zou,Zifan Wang,Norman Mu,Elham Sakhaee,Nathaniel Li,Steven Basart,Bo Li,David Forsyth,Dan Hendrycks
+authors: 
+- Mantas Mazeika
+- Long Phan
+- Xuwang Yin
+- Andy Zou
+- Zifan Wang
+- Norman Mu
+- Elham Sakhaee
+- Nathaniel Li
+- Steven Basart
+- Bo Li
+- David Forsyth
+- Dan Hendrycks
 year: "2024"
 link: https://arxiv.org/abs/2402.04249
 tags:

@@ -29,13 +29,26 @@ git clone https://github.com/hersh-gupta/responsible-ai-notes.git
 
 ```
 📁 Responsible AI/
-├── 📁 Fundamentals/         # Core concepts and principles
-├── 📁 Frameworks/           # Assessment methods and guidelines
-├── 📁 Case Studies/         # Real-world examples
-├── 📁 Research Papers/      # Academic literature notes
-├── 📁 Regulations/          # Legal and compliance info
-├── 📁 Tools and Resources/  # Practical implementations
-└── 📁 General Notes/        # Learning journal and ideas
+├── 📁 Core Concepts/          # Fundamentals of RAI
+│   ├── 📁 Key Terminology/    # Glossary and definitions
+│   ├── 📁 Methods/           # Technical approaches
+│   ├── 📁 Principles/        # Guidelines and standards
+│   └── 📁 Risk Assessment/   # Risk evaluation frameworks
+├── 📁 Case Studies/          # Real-world examples
+│   ├── 📁 Impact Studies/    # Societal impact analysis
+│   ├── 📁 Technical/         # Implementation cases
+│   └── 📁 Policy/           # Governance examples
+├── 📁 Research Papers/       # Academic literature
+│   ├── 📁 Safety & Alignment/
+│   ├── 📁 Social Impact/
+│   ├── 📁 Technical Methods/
+│   └── 📁 Evaluation & Metrics/
+├── 📁 Practical Resources/   # Tools and implementations
+│   ├── 📁 Evaluation & Testing/
+│   ├── 📁 Development Tools/
+│   └── 📁 Educational Resources/
+├── 📁 Regulations/          # Legal and compliance
+└── 📁 Templates/           # Documentation templates
 ```
 
 ## Templates
@@ -47,7 +60,7 @@ The vault includes templates for:
 - Ethics principles documentation
 - Impact assessments
 
-Find these in the `_templates` folder. Each template includes YAML frontmatter for metadata and a structured format for consistent documentation.
+Find these in the `Templates` folder. Each template includes YAML frontmatter for metadata and a structured format for consistent documentation.
 
 ## Contributing
 
@@ -59,7 +72,7 @@ Find these in the `_templates` folder. Each template includes YAML frontmatter f
 
 ## Customization
 
-1. Modify templates in `_templates/`
+1. Modify templates in `Templates/`
 2. Add new folders based on your needs
 3. Create your own tags and metadata structure
 4. Use Obsidian's graph view to visualize connections
