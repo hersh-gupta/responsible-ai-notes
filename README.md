@@ -29,26 +29,16 @@ git clone https://github.com/hersh-gupta/responsible-ai-notes.git
 
 ```
 📁 Responsible AI/
-├── 📁 Core Concepts/          # Fundamentals of RAI
-│   ├── 📁 Key Terminology/    # Glossary and definitions
-│   ├── 📁 Methods/           # Technical approaches
-│   ├── 📁 Principles/        # Guidelines and standards
-│   └── 📁 Risk Assessment/   # Risk evaluation frameworks
-├── 📁 Case Studies/          # Real-world examples
-│   ├── 📁 Impact Studies/    # Societal impact analysis
-│   ├── 📁 Technical/         # Implementation cases
-│   └── 📁 Policy/           # Governance examples
-├── 📁 Research Papers/       # Academic literature
-│   ├── 📁 Safety & Alignment/
-│   ├── 📁 Social Impact/
-│   ├── 📁 Technical Methods/
-│   └── 📁 Evaluation & Metrics/
-├── 📁 Practical Resources/   # Tools and implementations
-│   ├── 📁 Evaluation & Testing/
-│   ├── 📁 Development Tools/
-│   └── 📁 Educational Resources/
-├── 📁 Regulations/          # Legal and compliance
-└── 📁 Templates/           # Documentation templates
+├── 📁 Case Studies/          # Real-world examples and impact analysis
+├── 📁 Core Concepts/         # Fundamentals and terminology
+├── 📁 Educational Resources/ # Learning materials and repositories
+├── 📁 Evaluation and Testing/# Assessment tools and methods
+│   ├── 📁 Benchmarks/        # Standardized evaluation datasets
+│   ├── 📁 Methods/           # Evaluation approaches and frameworks
+│   └── 📁 Tools and Utilities/# Testing and comparison tools
+├── 📁 Regulations and Frameworks/ # Guidelines and compliance
+├── 📁 Safety and Alignment/  # Safety research and considerations
+└── 📁 _templates/           # Documentation templates
 ```
 
 ## Templates
