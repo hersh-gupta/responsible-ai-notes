@@ -14,5 +14,3 @@ Welcome to my collection of Responsible AI (RAI) resources and research material
 | 📁 [Safety and Alignment](/Safety-and-Alignment)             | Safety research and considerations      |
 
 Feel free to explore these sections to learn more about specific aspects of Responsible AI. Each directory contains detailed documentation, research papers, practical guides, and relevant examples.
-
-*Last updated: February 2025*
