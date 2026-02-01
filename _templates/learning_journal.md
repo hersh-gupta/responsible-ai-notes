@@ -12,6 +12,7 @@ tags: [RAI, journal]
 ## Connections Made
 - Related to previous learning:
 - Cross-domain insights:
+- Additional questions:
 
 # Resources Reviewed
 - 
