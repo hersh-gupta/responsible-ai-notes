@@ -4,6 +4,49 @@ A curated list of important responsible AI research papers and publications to r
 
 ---
 
+## 🆕 Recent Publications (Oct 2025 - Jan 2026)
+
+High-priority recent publications across all categories.
+
+| Title | Source | Date | Category | Notes |
+|-------|--------|------|----------|-------|
+| [FLI AI Safety Index Winter 2025](https://futureoflife.org/ai-safety-index-winter-2025/) | Future of Life Institute | Nov 2025 | Safety | Latest company safety evaluations including Anthropic, OpenAI, DeepMind, xAI |
+| [AI Safety at the Frontier: November 2025 Highlights](https://www.lesswrong.com/posts/8bLSDMWnL4BcHgA6k/ai-safety-at-the-frontier-paper-highlights-of-november-2025) | LessWrong | Nov 2025 | Safety | Curated monthly safety research highlights |
+| [AI Alignment: A Contemporary Survey](https://dl.acm.org/doi/10.1145/3770749) | ACM Computing Surveys | 2025 | Safety | Comprehensive alignment survey |
+| [Anthropic Sabotage Risk Report](https://alignment.anthropic.com/2025/sabotage-risk-report/2025_pilot_risk_report.pdf) | Anthropic | 2025 | Safety | Pilot evaluation of AI sabotage capabilities |
+| [Claude Opus 4.5 Model Report](https://www.anthropic.com/transparency/model-report) | Anthropic | Nov 2025 | Safety | Introspection findings, 98.6% appropriate high-risk response rate |
+| [Anthropic User Well-Being Safeguards](https://yourstory.com/ai-story/anthropic-protecting-well-being-of-users) | Anthropic | Dec 2025 | Safety | Suicide/self-harm handling, sycophancy reduction |
+| [Claude's New Constitution](https://www.cio.com/article/4120901/anthropics-claude-ai-gets-a-new-constitution-embedding-safety-and-ethics.html) | CIO | Jan 2026 | Safety | Overhauled ethical parameters launched at Davos |
+| [RedBench: Universal Red Teaming Dataset](https://arxiv.org/abs/2601.03699) | arXiv | Jan 2026 | Evaluation | 37 datasets, 29,362 samples, 22 risk categories |
+| [SafeSearch: Red-Teaming LLM Search Agents](https://arxiv.org/abs/2509.23694) | arXiv | Jan 2026 | Evaluation | 90.5% ASR on GPT-4.1-mini in search workflows |
+| [A Survey of Agentic AI and Cybersecurity](https://arxiv.org/html/2601.05293v1) | arXiv | Jan 2026 | Agents | Challenges, opportunities, use-case prototypes |
+| [AI Agents Under Threat: Key Security Challenges](https://dl.acm.org/doi/10.1145/3716628) | ACM Computing Surveys | 2025 | Agents | Four main knowledge gaps in agent security |
+| [Multi-Agent System Cascading Failures](https://adversa.ai/blog/top-agentic-ai-security-resources-november-2025/) | Galileo AI | Dec 2025 | Agents | Single compromised agent poisoned 87% of downstream decisions |
+| [Memory Injection Attacks on AI Agents](https://adversa.ai/blog/top-agentic-ai-security-resources-november-2025/) | Lakera AI | Nov 2025 | Agents | Persistent false beliefs via corrupted memory |
+| [Persistent Prompt Injection Research](https://adversa.ai/blog/top-agentic-ai-security-resources-november-2025/) | Palo Alto Unit42 | Oct 2025 | Agents | Long conversation histories increase vulnerability |
+| [Beyond Visual Safety: Jailbreaking MLLMs](https://arxiv.org/html/2601.15698v1) | arXiv | Jan 2026 | Multimodal | Harmful image generation via semantic-agnostic inputs |
+| [AERO: Attention Enhancement Jailbreak Framework](https://www.mdpi.com/2079-9292/15/1/237) | MDPI Electronics | Dec 2025 | Multimodal | Attention redirection and entropy regularization |
+| [SURE: Safety Understanding and Reasoning Enhancement](https://aclanthology.org/2025.emnlp-main.384.pdf) | EMNLP | Nov 2025 | Multimodal | Structure-based attack bypasses |
+| [Medical MLLM Vulnerabilities](https://ojs.aaai.org/index.php/AAAI/article/view/32396) | AAAI 2025 | 2025 | Multimodal | 2M-attack and O2M-attack on medical AI |
+| [Japan AI Basic Act](https://www.unifiedaihub.com/blog/current-state-of-ai-regulation-in-2026) | Japan Government | Jan 2026 | Regulation | AI development and trust foundation law |
+| [China Cybersecurity Law AI Guidelines](https://www.unifiedaihub.com/blog/current-state-of-ai-regulation-in-2026) | China Government | Jan 2026 | Regulation | Ethics, risk monitoring, safety testing requirements |
+| [South Korea AI Framework Act](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1637134/full) | South Korea | Jan 2026 | Regulation | Fairness mandates for healthcare/public services |
+| [Scaling Trustworthy AI: Principles to Practice](https://www.weforum.org/stories/2026/01/scaling-trustworthy-ai-into-global-practice/) | WEF | Jan 2026 | Governance | University roles in responsible AI |
+| [AI Governance as Growth Strategy](https://www.weforum.org/stories/2026/01/why-effective-ai-governance-is-becoming-a-growth-strategy/) | WEF | Jan 2026 | Governance | Governance as competitive advantage |
+| [Adaptive AI Governance Frameworks](https://www.kdnuggets.com/emerging-trends-in-ai-ethics-and-governance-for-2026) | KDnuggets | Jan 2026 | Governance | From annual updates to continuous oversight |
+| [AI Harms Tracking Insights](https://thebulletin.org/2026/01/what-experts-can-learn-by-tracking-ai-harms/) | Bulletin of Atomic Scientists | Jan 2026 | Case Study | Expert analysis of AI harm patterns |
+| [Bias Mitigation Failures in Government AI](https://arxiv.org/html/2601.17054) | arXiv | Jan 2026 | Bias | Data distribution shifts and historical bias accumulation |
+| [XAI-based Bias Mitigation in Healthcare](https://academic.oup.com/jamiaopen/article/9/1/ooaf171/8371911) | JAMIA Open | Feb 2026 | Bias | COVID-19 severity prediction fairness |
+| [Algorithmic Fairness Regulatory Challenges](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1637134/full) | Frontiers | 2025 | Bias | Building effective regulatory regimes |
+| [Evaluation Awareness in Claude 4.5](https://ari.us/policy-bytes/ai-safety-research-highlights-of-2025/) | Apollo Research | 2025 | Safety | 58% evaluation awareness in test scenarios |
+| [Deliberative Alignment in o3/o4-mini](https://ari.us/policy-bytes/ai-safety-research-highlights-of-2025/) | OpenAI + Collaborators | 2025 | Safety | 30x reduction in covert scheming behavior |
+| [Alignment Faking Research](https://ari.us/policy-bytes/ai-safety-research-highlights-of-2025/) | Anthropic | 2025 | Safety | First empirical example of unprompted alignment faking |
+| [Emergent Misalignment from Reward Hacking](https://ari.us/policy-bytes/ai-safety-research-highlights-of-2025/) | Research | 2025 | Safety | Broader misalignment from benign training dynamics |
+| [Attribution Graphs for Interpretability](https://ari.us/policy-bytes/ai-safety-research-highlights-of-2025/) | Anthropic | 2025 | Interpretability | Revealing hidden reasoning in Claude 3.5 Haiku |
+| [ICLR 2026 Agents in the Wild Workshop](https://agentwild-workshop.github.io/) | ICLR | 2026 | Agents | Upcoming workshop on reliable real-world agents |
+
+---
+
 ## Safety and Alignment
 
 | Title | Source | Date | Notes |
@@ -139,27 +182,31 @@ A curated list of important responsible AI research papers and publications to r
 
 ## Summary Statistics
 
-- **Total publications**: 60+
+- **Total publications**: 90+
 - **Date range**: February 2025 - January 2026
-- **Categories covered**: 7 main categories
+- **Recent additions (Oct 2025 - Jan 2026)**: 35+ publications
+- **Categories covered**: 8 main categories
 
 ## Reading Priority
 
-### High Priority (Foundational)
-1. International AI Safety Report 2025
-2. FLI AI Safety Index Summer 2025
-3. Stanford Descriptive & Normative Benchmarks
-4. EU AI Act Implementation updates
-5. Agentic AI Security: Threats, Defenses, Evaluation
+### High Priority (Recent & Foundational)
+1. FLI AI Safety Index Winter 2025 - Latest company evaluations
+2. RedBench - Universal red teaming dataset (Jan 2026)
+3. Claude's New Constitution (Jan 2026)
+4. Alignment Faking Research - First empirical example
+5. Multi-Agent System Cascading Failures - 87% downstream poisoning
+6. International AI Safety Report 2025
 
-### Medium Priority (Specialized)
-- Red teaming methodologies and tools
-- Multimodal safety research
-- Interpretability advances
+### Medium Priority (Specialized Topics)
+- Agentic AI security surveys and attack research
+- Multimodal jailbreak methods (AERO, Beyond Visual Safety)
+- New regulatory frameworks (Japan, China, South Korea - Jan 2026)
+- Interpretability advances (Attribution Graphs)
 
 ### For Reference
 - Regulatory updates by jurisdiction
 - Domain-specific case studies
+- Healthcare AI fairness research
 
 ---
 
