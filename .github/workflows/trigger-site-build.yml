@@ -1,0 +1,15 @@
+name: Trigger Quartz Site Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Quartz build
+        run: gh workflow run deploy.yml --repo hersh-gupta/tldr-responsible-ai --ref v4
+        env:
+          GH_TOKEN: ${{ secrets.QUARTZ_TRIGGER_TOKEN }}
