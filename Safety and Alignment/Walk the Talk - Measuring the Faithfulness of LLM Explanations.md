@@ -5,7 +5,7 @@ authors:
 - Robert Ness
 - John Guttag
 - Emre Kıcıman
-year: "2025"
+date: "2025-01-01"
 link: https://openreview.net/forum?id=4ub9gpx9xw
 tags:
   - RAI

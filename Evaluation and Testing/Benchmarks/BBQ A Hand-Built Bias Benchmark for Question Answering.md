@@ -9,7 +9,7 @@ authors:
   - Jana Thompson
   - Phu Mon Htut
   - Samuel R. Bowman
-year: "2022"
+date: "2022-01-01"
 link: https://github.com/nyu-mll/BBQ/tree/main
 tags:
   - paper

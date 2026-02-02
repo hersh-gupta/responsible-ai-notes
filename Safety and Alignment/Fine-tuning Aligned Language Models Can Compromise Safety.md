@@ -8,7 +8,7 @@ authors:
   - Ruoxi Jia
   - Prateek Mittal
   - Peter Henderson
-year: "2023"
+date: "2023-10-05"
 link: https://arxiv.org/abs/2310.03693
 project_url: https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety
 tags:

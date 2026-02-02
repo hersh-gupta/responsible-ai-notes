@@ -8,7 +8,7 @@ authors:
   - Junxiao Yang
   - Hongning Wang
   - Minlie Huang
-year: "2024"
+date: "2024-12-19"
 link: https://arxiv.org/abs/2412.14470
 tags:
   - RAI

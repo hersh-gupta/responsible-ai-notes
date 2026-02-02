@@ -4,7 +4,7 @@ authors:
   - Irene Solaiman
   - Zeerak Talat
   - William Agnew
-year: "2024"
+date: "2024-01-01"
 url: https://arxiv.org/abs/2306.05949
 tags:
   - paper

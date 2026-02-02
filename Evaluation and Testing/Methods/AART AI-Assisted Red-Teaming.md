@@ -5,7 +5,7 @@ authors:
 - Kevin Robinson
 - Lora Aroyo
 - Preethi Lahoti
-year: "2023"
+date: "2023-11-14"
 link: https://arxiv.org/abs/2311.08592
 tags:
   - RAI

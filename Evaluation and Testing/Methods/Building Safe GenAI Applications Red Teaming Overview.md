@@ -9,7 +9,7 @@ authors:
 - Melissa Kazemi Rad
 - Swapnil Shinde
 - Mohammad Shahed Sorower
-year: "2025"
+date: "2025-03-03"
 link: https://arxiv.org/abs/2503.01742
 tags:
   - RAI

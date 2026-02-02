@@ -9,7 +9,7 @@ authors:
 - Ahmad Beirami
 - Prateek Mittal
 - Peter Henderson
-year: "2025"
+date: "2025-01-01"
 link: https://openreview.net/forum?id=6Mxhg9PtDE
 tags:
   - RAI

@@ -3,7 +3,7 @@ title: "Generative AI and Labor: Power, Hype, and Value at Work"
 authors:
   - Aiha Nguyen
   - Alexandra Mateescu
-year: "2024"
+date: "2024-12-01"
 link: https://datasociety.net/wp-content/uploads/2024/12/DS_Generative-AI-and-Labor-Primer_Final.pdf
 tags:
   - ai-ethics

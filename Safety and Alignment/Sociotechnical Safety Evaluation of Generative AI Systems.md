@@ -14,7 +14,7 @@ authors:
   - Iason Gabriel
   - Verena Rieser
   - William Isaac
-year: "2023"
+date: "2023-10-18"
 link: https://arxiv.org/abs/2310.11986
 tags:
   - paper-notes

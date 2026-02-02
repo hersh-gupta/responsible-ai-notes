@@ -1,6 +1,6 @@
 ---
 title: "NIST AI 600-1: Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile"
-year: "2024"
+date: "2024-07-01"
 type: Technical Report
 link: https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf
 tags:

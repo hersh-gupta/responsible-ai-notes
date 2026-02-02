@@ -9,7 +9,7 @@ authors:
 - Nathan Lambert
 - Yejin Choi
 - Nouha Dziri
-year: "2024"
+date: "2024-06-26"
 link: https://arxiv.org/abs/2406.18495
 tags:
   - RAI

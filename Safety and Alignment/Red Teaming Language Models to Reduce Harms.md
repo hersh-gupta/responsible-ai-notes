@@ -11,7 +11,7 @@ authors:
 - Ethan Perez
 - Nicholas Schiefer
 - And many others from Anthropic
-year: "2022"
+date: "2022-09-16"
 link: https://arxiv.org/abs/2209.07858
 tags:
   - RAI

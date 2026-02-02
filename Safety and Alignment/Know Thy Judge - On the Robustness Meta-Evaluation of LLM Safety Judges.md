@@ -5,7 +5,7 @@ authors:
 - Eliott Zemour
 - Eric Lin
 - Vaikkunth Mugunthan
-year: "2025"
+date: "2025-03-06"
 link: https://arxiv.org/abs/2503.04474
 tags:
   - RAI

@@ -8,7 +8,7 @@ authors:
   - Briana Vecchione
   - Beth Duckles
   - Jacob Metcalf
-year: "2025"
+date: "2025-02-01"
 link: https://datasociety.net/wp-content/uploads/2025/02/Red-Teaming-in_the_Public_Interest_FINAL1.pdf
 tags:
   - red-teaming

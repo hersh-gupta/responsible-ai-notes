@@ -1,7 +1,7 @@
 ---
 title: 
 domain: 
-year: 
+date:
 tags: [RAI, case-study]
 ---
 

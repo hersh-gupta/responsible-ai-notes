@@ -13,7 +13,7 @@ authors:
   - Mikel Rodriguez
   - Verena Rieser
   - William Isaac
-year: "2024"
+date: "2024-06-17"
 link: https://arxiv.org/abs/2406.11757
 tags:
   - paper-notes

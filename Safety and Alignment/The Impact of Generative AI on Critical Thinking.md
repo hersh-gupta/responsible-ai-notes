@@ -8,7 +8,7 @@ authors:
   - Sean Rintel
   - Richard Banks
   - Nicholas Wilson
-year: "2025"
+date: "2025-01-01"
 link: https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf
 tags:
   - RAI

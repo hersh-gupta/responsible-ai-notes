@@ -13,7 +13,7 @@ authors:
   - Bo Li
   - David Forsyth
   - Dan Hendrycks
-year: "2024"
+date: "2024-02-06"
 link: https://arxiv.org/abs/2402.04249
 tags:
   - benchmark

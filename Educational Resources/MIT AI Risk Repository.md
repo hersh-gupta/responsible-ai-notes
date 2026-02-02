@@ -16,7 +16,7 @@ authors:
   - Soroush Pour
   - Stephen Casper
   - Neil Thompson
-year: "2024"
+date: "2024-08-22"
 ---
 # Summary
 This paper presents the AI Risk Repository, a comprehensive effort to systematically analyze and categorize AI risks through a meta-review of existing taxonomies. The authors developed a living database of 777 risks extracted from 43 taxonomies, organized using two complementary frameworks: a high-level Causal Taxonomy and a mid-level Domain Taxonomy.

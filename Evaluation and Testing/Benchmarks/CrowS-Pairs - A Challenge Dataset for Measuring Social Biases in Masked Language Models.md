@@ -5,7 +5,7 @@ authors:
   - Clara Vania
   - Rasika Bhalerao
   - Samuel R. Bowman
-year: "2020"
+date: "2020-10-01"
 link: https://arxiv.org/abs/2010.00133v1
 tags:
   - responsible-ai

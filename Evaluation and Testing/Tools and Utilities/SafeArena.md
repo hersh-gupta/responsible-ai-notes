@@ -10,7 +10,7 @@ authors:
   - Spandana Gella
   - Karolina Stanczak
   - Siva Reddy
-year: "2025"
+date: "2025-03-06"
 link: https://arxiv.org/abs/2503.04957
 tags:
   - RAI
